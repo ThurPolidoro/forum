@@ -1,0 +1,19 @@
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (4) : îøèáêà 027: íåâåðíàÿ ñèìâîëüíàÿ êîíñòàíòà
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (8) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (13) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (17) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (19) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (25) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (27) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(36) -- (31) : îøèáêà 027: íåâåðíàÿ ñèìâîëüíàÿ êîíñòàíòà
+C:\wamp64\www\forum\dist\php\validar_bck.php(31) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(31) -- (32) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\wamp64\www\forum\dist\php\validar_bck.php(31) -- (32) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:12.
